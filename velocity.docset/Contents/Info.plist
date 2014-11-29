@@ -2,6 +2,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
  <dict>
+  <key>DashDocSetFamily</key>
+  <string>dashtoc</string>
+  <key>isJavaScriptEnabled</key><true/>
   <key>CFBundleIdentifier</key>
   <string>velocityjs</string>
   <key>CFBundleName</key>
